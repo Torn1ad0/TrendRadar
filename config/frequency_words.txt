@@ -12,9 +12,6 @@ A股
 胖东来
 于东来
 
-DeepSeek
-梁文锋
-
 华为
 鸿蒙
 HarmonyOS
@@ -66,12 +63,7 @@ AMD
 
 谷歌
 google
-gemini
 deepmind
-
-chatgpt
-openai
-sora
 
 claude
 Anthropic
@@ -84,6 +76,14 @@ ios
 ai
 !gai
 人工智能
+千问
+Qwen
+gemini
+chatgpt
+openai
+sora
+DeepSeek
+梁文锋
 
 国产
 中国
@@ -104,6 +104,11 @@ ai
 自动驾驶
 
 核能
+光能
+氢能
+风能
+太阳能
+潮汐能
 
 水电站
 雅鲁藏布江
